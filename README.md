@@ -1,7 +1,6 @@
 # BI-DashBoards
 Call Canter Data Analysis 
-Dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the 
-dataset
+ DashBoard Visualizes customer and agent behaviour
 Customer Retention
 dashboard gives information that visualizes customer demographics and insights
 **Mahadev Sales Store**
